@@ -1,0 +1,14 @@
+@media screen and (max-width: 375px) {
+  .blog-preview-card--container {
+    width: 327px;
+    height: 501px;
+  }
+
+  .blog-preview-card--content-badge {
+    font-size: 12px;
+  }
+
+  .blog-preview-card--content-publish-date {
+    font-size: 12px;
+  }
+}
